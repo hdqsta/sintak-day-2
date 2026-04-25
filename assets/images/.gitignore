@@ -1,1 +1,5 @@
-.HATTA-CUT-NEW.png
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
